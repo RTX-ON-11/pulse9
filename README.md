@@ -26,3 +26,8 @@ Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
 
     Danach sollte Ihre Installation reibungslos verlaufen.   
 
+
+    2. Andere Lösung: 
+
+https://github.com/tauri-apps/tauri/issues/966
+
