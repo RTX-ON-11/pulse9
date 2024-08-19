@@ -31,3 +31,9 @@ Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
 
 https://github.com/tauri-apps/tauri/issues/966
 
+3. libwebkit2gtk-4.0-37:
+ Hängt ab von: libjavascriptcoregtk-4.0-18, aber es wird nicht installiert
+ Hängt ab von: libicu70 (>=70.1-1~) but it is not installable
+
+https://packetstormsecurity.com/files/178810/Ubuntu-Security-Notice-USN-6788-1.html
+
